@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/prj-poc-001/locations/us-central1/clusters/cluster-1
+  cluster: projects/uplifted-road-495406-g2/locations/us-central1/clusters/cluster-1
 
